@@ -19,7 +19,7 @@ Group 6
 |------|-------------------|
 | Member 1 | [Reg. No.] |
 | Member 2 | [Reg. No.] |
-| Member 3 | [Reg. No.] |
+| Batilda Beno Romani 3 | [T24-03-25605] |
 
 ---
 
